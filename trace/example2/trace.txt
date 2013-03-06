@@ -1,0 +1,16 @@
+		entering 0x8048eeb <unknown> (./test)
+			entering 0x8048e60 <unknown> (./test)
+		exiting 0x8048e60
+	exiting 0x8048eeb
+		entering 0x8049199 <unknown> (./test)
+			entering 0x804910e <unknown> (./test)
+		exiting 0x804910e
+	exiting 0x8049199
+		entering 0x8049090 main (./test)
+			entering 0x8048dca _ZN4test9function3Ec (./test)
+				entering 0x8048d3a _ZN4test9function2Ei (./test)
+					entering 0x8048cbc _ZN4test9function1El (./test)
+				exiting 0x8048cbc
+			exiting 0x8048d3a
+		exiting 0x8048dca
+	exiting 0x8049090
