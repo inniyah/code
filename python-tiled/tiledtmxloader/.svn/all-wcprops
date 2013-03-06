@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/122/trunk/tiledtmxloader3/tiledtmxloader
+END
+tmxreader.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/122/trunk/tiledtmxloader3/tiledtmxloader/tmxreader.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/115/trunk/tiledtmxloader3/tiledtmxloader/__init__.py
+END
+helperspygame.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/121/trunk/tiledtmxloader3/tiledtmxloader/helperspygame.py
+END
+helperspyglet.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/115/trunk/tiledtmxloader3/tiledtmxloader/helperspyglet.py
+END
