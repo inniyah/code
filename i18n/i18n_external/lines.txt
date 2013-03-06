@@ -1,0 +1,10 @@
+# Miriam Ruiz <little_miry@yahoo.es>, August 2007
+# 
+# This file is in the Public Domain.
+# You can use, modify or distribute it without any limitations.
+
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5
