@@ -1,0 +1,38 @@
+# Miriam Ruiz <little_miry@yahoo.es>, August 2007
+# 
+# This program is in the Public Domain.
+# You can use, modify or distribute it without any limitations.
+msgid ""
+msgstr ""
+"Project-Id-Version: test\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-08-05 18:39+0200\n"
+"PO-Revision-Date: 2007-08-05 18:41+0200\n"
+"Last-Translator: Miriam Ruiz <little_miry@yahoo.es>\n"
+"Language-Team: Español <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+
+#: aux.c:25
+msgid "Line 1\n"
+msgstr "Línea 1\n"
+
+#: aux.c:26
+msgid "Line 2\n"
+msgstr "Línea 2\n"
+
+#: aux.c:27
+msgid "Line 3\n"
+msgstr "Línea 3\n"
+
+#: aux.c:28
+msgid "Line 4\n"
+msgstr "Línea 4\n"
+
+#: aux.c:29
+msgid "Line 5\n"
+msgstr "Línea 5\n"
+
